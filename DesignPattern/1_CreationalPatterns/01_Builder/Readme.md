@@ -26,4 +26,4 @@
 ### pitfalls
 
 - A litte bit complex for new comers maily beacuse of `method chaining`, where builder methods return builder object itself.
-- Possibility of partially initialized object; User code can set only a few or none of properties using withXXX methods and call build(). If required properties are missing, build method should provide suitable defaults or throw exceptions
+- Possibility of partially initialized object; User code can set only a few or none of properties using withXXX methods and call build(). If required properties are missing, build method should provide suitable defaults or throw exceptions.
