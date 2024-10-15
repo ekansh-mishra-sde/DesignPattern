@@ -22,11 +22,13 @@ Design patterns are essential in software engineering as they provide solutions 
 The repository covers the following design pattern categories:
 
 ### 1. **Creational Patterns**
-   - Singleton
-   - Factory Method
-   - Abstract Factory
    - Builder
+   - Simple Factory
+   - Factory Method
    - Prototype
+   - Singleton
+   - Abstract Factory
+   - Object pool
 
 ### 2. **Structural Patterns**
    - Adapter
