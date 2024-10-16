@@ -14,7 +14,6 @@
 
 ![builder uml](image.png)
 
-
 ### Examples
 
 - String builder in java.lang.StringBuilder class but not a 100% builder
